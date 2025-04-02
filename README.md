@@ -13,7 +13,7 @@
 ## Struktura opini w serwwsie Ceneo.pl
 |składowa|zmienna|selektor|
 |--------|-------|--------|
-|opinia|review|div.js_product-review|
+|opinia|review|div.js_product-review:not(.user-post--highlight)|
 |identyfikator opinii|review_id|['data-entry-id']|
 |autor|author|span.user-post__author-name|
 |rekomendacja|recomendation|span.user-post__author-recomendation > em|
