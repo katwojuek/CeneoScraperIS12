@@ -8,7 +8,7 @@
 2. Jeżeli operacja zakończy się sukcesem, wyodrębnienie z kodu strony fragmentów odpowiadających poszczególnym opiniom
 3. Dla każdej z opinii wydobycie z kodu HTML poszczególnych składowych i zapisanie ich w postaci złożonych struktur danych
 4. Jeżeli istnieje kolejna strona z opiniami, przejście na tą stronę i powtórzenie dla niej kroków 1-4
-5. zapisanie wszystkich opinii w bazie danych
+5. Zapisanie wszystkich opinii w bazie danych
 
 ## Struktura opini w serwwsie Ceneo.pl
 |składowa|zmienna|selektor|
